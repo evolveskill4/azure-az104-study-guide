@@ -20,6 +20,10 @@ Comprehensive preparation roadmap, domain architecture breakdowns, and hands-on 
 
 ---
 
+## 📑 Quick Reference & CLI Cheatsheet
+Practical command-line references for Azure administration tasks:
+- 🚀 **[Azure CLI (AZ-104) Essential Cheatsheet](./az-104-cli-cheatsheet.md)** — Ready-to-use Azure CLI commands for VNets, VMs, Storage, and Entra ID governance.
+
 ## 🛠️ Practical Hands-on Lab Checklist
 
 - [ ] **Lab 1: Identity & Access Control** — Set up Microsoft Entra ID users, custom RBAC role assignment, and conditional access policies.
